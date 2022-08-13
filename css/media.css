@@ -1,0 +1,149 @@
+.item-slick1{
+    background-size: contain;
+    height: 100vh !important;
+  
+}
+.wrap-modal1  .imgee{
+    direction: ltr;
+}
+button.stext-101.cl0.size-103.bg1.bor1.hov-btn2.p-lr-15.trans-04{
+    margin: 10px;
+}
+
+.wrap-modal1  .slick-slide img{
+    height: 100% !important;
+}
+.wrap-modal1  .lrg{
+   padding-right: 0;
+   padding-top: 100px;
+}
+@media(max-width:799px) {
+    section.section-slide {
+        top: 0!important;
+    }
+  
+    video {
+        width: 100%;
+        margin-top: 80px;
+    }
+    .col-sm-6.col-md-4.col-lg-3.p-b-35.isotope-item.book {
+        position: relative !important;
+        top: 0 !important;
+        left: 0 !important;
+    }
+    .row>* {
+        width: 50% !important;
+        max-width: 100%;
+
+    }
+    .item-slick1{
+        position: relative;
+        background-size: contain;
+        height: 55vh !important;
+    }
+
+
+}
+@media (min-width: 420px) and (max-width: 1000px) 
+ {
+    .item-slick1{
+        position: relative;
+        background-size: contain;
+        height: 55vh !important;
+    }
+    
+}
+
+@media (min-width: 420px) and (max-width: 800px) {
+    .p-t-95, .p-tb-95, .p-all-95 {
+        padding-top: 30px !important;
+    }
+    .item-slick1{
+        position: relative;
+        background-size: contain;
+        height: 55vh !important;
+    }
+    .wrap-modal1  .slick-slide img{
+        height: 100% !important;
+    }
+    .wrap-slick3-arrows{
+        width: 81.333333% !important;
+    }
+    .wrap-modal1 .slick3 {
+        width: 81.333333%;
+    } 
+    
+    .wrap-slick3-dots {
+        width: 17.111111% !important;
+    }
+    .wrap-modal1  .lrg{
+        padding-right: 0;
+        padding-top: 5px ;
+     }
+     .wrap-modal1 .row>*{
+
+        width: 100% !important;
+        
+        }
+}
+
+@media (max-width: 447px) {
+    section.section-slide {
+        top: 0!important;
+    }
+    .stext-104{
+        font-size: 12px !important;
+    }
+   
+    video {
+        width: 100%;
+        margin-top: 80px;
+    }
+    
+.wrap-modal1 .row>*{
+
+width: 100% !important;
+
+}
+    .col-sm-6.col-md-4.col-lg-3.p-b-35.isotope-item.book {
+        position: relative !important;
+        top: 0 !important;
+        left: 0 !important;
+
+    }
+    .p-t-95, .p-tb-95, .p-all-95 {
+        padding-top: 0 !important;
+    }
+    .row>* {
+        width: 50% !important;
+        max-width: 100%;
+
+    }
+    .item-slick1{
+        position: relative;
+        background-size: contain;
+        height: 55vh !important;
+    }
+    .tex{
+        justify-content:center;
+    }
+
+
+    .wrap-modal1  .slick-slide img{
+        height: 100% !important;
+    }
+    .wrap-slick3-arrows{
+        width: 81.333333% !important;
+    }
+    .wrap-modal1 .slick3 {
+        width: 81.333333%;
+    } 
+    
+    .wrap-slick3-dots {
+        width: 17.111111% !important;
+    }
+    .wrap-modal1  .lrg{
+        padding-right: 0;
+        padding-top: 5px ;
+     }
+}
